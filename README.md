@@ -2,5 +2,6 @@
 
 ## 📊 Projets
 
+- Time Series → 
+- Predicting customer buying behaviour →
 - Sales Analysis → 
-- Predicting customer buying behaviour →  
