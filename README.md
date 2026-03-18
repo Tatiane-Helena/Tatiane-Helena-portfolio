@@ -1,1 +1,6 @@
-Portfolio of Data Science projects using Python 
+# Data Analysis Projects
+
+## 📊 Projets
+
+- Sales Analysis → 
+- Predicting customer buying behaviour →  
