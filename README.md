@@ -1,13 +1,23 @@
 # 👩‍💻 Tatiane Helena – Data Analyst Portfolio
 
 Welcome to my data analysis portfolio!  
-Here you will find projects focused on extracting insights from data using Python, SQL, and visualization tools.
+Here you will find projects focused on extracting insights from data using Python, Machine Learning, and visualization tools.
 
 
 ## 📊 Projects Overview
 
-| Sales Analysis | Time series analysis and forecasting | Predicting Customer behaviour |
-| Python, Pandas, ARIMA | Scikit-learn, Seaborn, Matplotlib|
+Time series analysis: 
+Using a dataset that contains transport of passengers from 1949 - 1960 of an airline company. I used ARIMA a method for time series analysis, also implemented the Decomposition of the time Series to identify trends, seasonality and residuals within the data. Applied AUTO-ARIMA to forecast and to facilitate the search for best parameters to an efficient model for the dataset. 
+
+
+
+Predicting Customer behaviour: 
+
+
+
+
+Sales Analysis: 
+Analysis of hourly sales of a retail coffee shop in Dublin and visualizations of the sales performance by hour in one week time. 
 
 
 ## 🛠️ Skills
