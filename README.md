@@ -31,6 +31,7 @@ Analysis of hourly sales of a retail coffee shop in Dublin and visualizations of
 
 ## 📫 Contact
 Email: helenatatiane@icloud.com
+
 LinkedIn: https://www.linkedin.com/in/tatiane-helena-alves/
 
 
