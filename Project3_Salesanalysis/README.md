@@ -15,8 +15,8 @@ The time series analysis can support better decision-making in areas such as sta
 * Source: 
 * Time period: 30th September 2025 - 6th October 2025
 * Features:
-Date&Time
-Sales
+- Date&Time
+- Sales 
 
 ---
 
