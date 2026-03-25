@@ -11,7 +11,8 @@ I am a Data Analyst with a strong focus on extracting insights from data using P
 | Project                            | Description                                                       | Tools                             |
 | ---------------------------------- | ----------------------------------------------------------------- | --------------------------------- |
 | [Sales Analysis](#)             | Time series analysis to identify trends and forecast future sales | Python, Pandas, ARIMA             |
-| [Customer Behavior Analysis](#) | Analysis of customer patterns to understand purchasing behavior   | Scikit-learn, Decision Tree Algorithm, Seaborn, Matplotlib |
+| [Time series_airline_passengers]()  | Time series analysis and decomposition of trends, seasonality and residuals within the dataset of an airline passengers transportation from 1949 to 1960  |  Python, Pandas, ARIMA, AUTO ARIMA, Matplotlib |
+| [Customer Behavior Analysis](https://github.com/Tatiane-Helena/Tatiane-Helena-portfolio/tree/c1efae11a83874c5b9dd2bfde2e74fa2caa27055/Project2_Prediction_Customers_behavious) | Analysis of customer patterns to understand purchasing behavior   | Scikit-learn, Decision Tree Algorithm, Seaborn, Matplotlib |
 
 ---
 
