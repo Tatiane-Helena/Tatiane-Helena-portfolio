@@ -1,37 +1,44 @@
 # 👩‍💻 Tatiane Helena – Data Analyst Portfolio
 
-Welcome to my data analysis portfolio!  
-Here you will find projects focused on extracting insights from data using Python, Machine Learning, and visualization tools.
+Welcome to my data analysis portfolio!
+I am a Data Analyst with a strong focus on extracting insights from data using Python, SQL, Machine Learning and data visualization techniques.
 
+---
 
 ## 📊 Projects Overview
 
-Time series analysis: 
-Using a dataset that contains transport of passengers from 1949 - 1960 of an airline company. I used ARIMA a method for time series analysis, also implemented the Decomposition of the time Series to identify trends, seasonality and residuals within the data. Applied AUTO-ARIMA to forecast and to facilitate the search for best parameters to an efficient model for the dataset. 
+| Project                            | Description                                                       | Tools                             |
+| ---------------------------------- | ----------------------------------------------------------------- | --------------------------------- |
+| [📈 Sales Analysis](#)             | Time series analysis to identify trends and forecast future sales | Python, Pandas, ARIMA             |
+| [👥 Customer Behavior Analysis](#) | Analysis of customer patterns to understand purchasing behavior   | Scikit-learn, Decision Tree Algorithm, Seaborn, Matplotlib |
 
+---
 
+## ⭐ Featured Project
 
-Predicting Customer behaviour: 
+### 📈 Sales Forecasting (Time Series)
 
+* Performed time series analysis using ARIMA
+* Identified seasonality and trends in weekly sales data
+* Built a forecasting model to predict future week sales
 
+👉 *Add your project link here*
 
-
-Sales Analysis: 
-Analysis of hourly sales of a retail coffee shop in Dublin and visualizations of the sales performance by hour in one week time. 
-
+---
 
 ## 🛠️ Skills
 
-- Python (Pandas, NumPy)
-- Data Visualization (Matplotlib, Seaborn)
-- SQL
-- Machine Learning
-- Time Series (ARIMA)
+* **Programming:** Python (Pandas, NumPy)
+* **Data Visualization:** Matplotlib, Seaborn
+* **Machine Learning:** Scikit-learn
+* **Time Series Analysis:** ARIMA
 
+---
 
 ## 📫 Contact
-Email: helenatatiane@icloud.com
 
-LinkedIn: https://www.linkedin.com/in/tatiane-helena-alves/
+* 📧 Email: [helenatatiane@icloud.com](mailto:helenatatiane@icloud.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/tatiane-helena-alves/
 
+---
 
