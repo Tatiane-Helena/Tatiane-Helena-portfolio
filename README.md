@@ -23,7 +23,7 @@ I am a Data Analyst with a strong focus on extracting insights from data using P
 * Identified seasonality and trends in weekly sales data from a retail coffee shop in Dublin 
 * Built a forecasting model to predict future week sales of the coffee shop
 
-👉 Project3_Salesanalysis
+👉 
 
 ---
 
