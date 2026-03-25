@@ -1,6 +1,7 @@
 # 👩‍💻 Tatiane Helena – Data Analyst Portfolio
 
 Welcome to my data analysis portfolio!
+
 I am a Data Analyst with a strong focus on extracting insights from data using Python, SQL, Machine Learning and data visualization techniques.
 
 ---
@@ -16,13 +17,13 @@ I am a Data Analyst with a strong focus on extracting insights from data using P
 
 ## ⭐ Featured Project
 
-### 📈 Sales Forecasting (Time Series)
+### 📈 Sales Forecasting
 
 * Performed time series analysis using ARIMA
-* Identified seasonality and trends in weekly sales data
-* Built a forecasting model to predict future week sales
+* Identified seasonality and trends in weekly sales data from a retail coffee shop in Dublin 
+* Built a forecasting model to predict future week sales of the coffee shop
 
-👉 *Add your project link here*
+👉 Project3_Salesanalysis
 
 ---
 
