@@ -1,6 +1,6 @@
 In this notebook we can see the decomposition of the dataset: trend, seasonality and residuals. The Auto-ARIMA library has been used in order to optimize the search for the best ARIMA parameters and adjust an efficient model to the Air-passengers dataset. 
 
-Dataset: Air Passengers is a classic dataset about monthly number of passengers from the time period of 1949 - 1960. The dataset is an open source can be found on platforms such as Kaggle, UCI. 
+Dataset: Air Passengers is a classic dataset that contains number of passengers transportation from the time period of 1949 - 1960. The dataset is an open source can be found on platforms such as Kaggle, UCI. 
 
 Methodology: It has been used the AUTO-ARIMA method to easy the prediction of the time series searching for the best combinations of the ARIMA (p,d,q) parameters. 
 
