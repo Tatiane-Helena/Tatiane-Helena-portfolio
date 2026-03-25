@@ -2,20 +2,21 @@
 
 ## 🎯 Objective
 
-The goal of this project is to analyze historical sales data to identify trends and seasonality, and build a forecasting model to predict future sales.
+The goal of this project is to analyze historical sales data from a retail coffee shop in Ireland to identify trends and seasonality, and build a forecasting model to predict future sales.
 
-This type of analysis can support better decision-making in areas such as staff schedule planning and sales forecasting.
+## 💡 Business Value
+
+The time series analysis can support better decision-making in areas such as staff schedule planning, sales forecasting and improve inventory management. 
 
 ---
 
 ## 📂 Dataset
 
-* Source: *(add source — e.g., Kaggle or internal dataset)*
-* Time period: *(e.g., Jan 2020 – Dec 2023)*
+* Source: 
+* Time period: 30th September 2025 - 6th October 2025
 * Features:
-- Date
-- Sales
-
+Date&Time
+Sales
 
 ---
 
@@ -62,8 +63,6 @@ This type of analysis can support better decision-making in areas such as staff 
 * ARIMA model successfully captured trend behavior
 * Forecast provides a reasonable estimate of future demand
 
-*(Optional: add metrics if you have them, e.g. RMSE)*
-
 ---
 
 ## 📊 Visualizations
@@ -75,47 +74,6 @@ This type of analysis can support better decision-making in areas such as staff 
 ### Forecast vs Actual
 
 ![Forecast](outputs/forecast.png)
-
----
-
-## 🚀 How to Run the Project
-
-```bash
-# Clone repository
-git clone https://github.com/Tatiane-Helena/Tatiane-Helena-portfolio.git
-
-# Navigate to project folder
-cd sales-analysis
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run notebook
-jupyter notebook
-```
-
----
-
-## 📌 Project Structure
-
-```
-sales-analysis/
-│
-├── data/
-├── notebooks/
-├── outputs/
-└── README.md
-```
-
----
-
-## 💡 Business Value
-
-This project demonstrates how time series forecasting can be used to:
-
-* Improve inventory management
-* Anticipate demand fluctuations
-* Support data-driven business decisions
 
 ---
 
