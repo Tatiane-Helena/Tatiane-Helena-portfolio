@@ -23,7 +23,7 @@ I am a Data Analyst with a strong focus on extracting insights from data using P
 * Identified seasonality and trends in weekly sales data from a retail coffee shop in Dublin 
 * Built a forecasting model to predict future week sales of the coffee shop
 
-👉 https://github.com/Tatiane-Helena/Tatiane-Helena-portfolio/tree/2c7db645ac89b921588b143448f42ccef013829a/Project3_Salesanalysis
+👉 [View Sales Forecasting Project](https://github.com/Tatiane-Helena/Tatiane-Helena-portfolio/tree/2c7db645ac89b921588b143448f42ccef013829a/Project3_Salesanalysis)
 
 ---
 
@@ -39,7 +39,7 @@ I am a Data Analyst with a strong focus on extracting insights from data using P
 ## 📫 Contact
 
 * 📧 Email: [helenatatiane@icloud.com](mailto:helenatatiane@icloud.com)
-* 💼 LinkedIn: https://www.linkedin.com/in/tatiane-helena-alves/
+* 💼 [LinkedIn](https://www.linkedin.com/in/tatiane-helena-alves/)
 
 ---
 
