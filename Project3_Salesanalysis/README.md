@@ -41,6 +41,7 @@ reduce queues during rush hours
 # 5. Limitations
 assumes historical patterns continue
 external factors not included:
+
 weather
 promotions
 holidays
