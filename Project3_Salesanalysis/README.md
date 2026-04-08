@@ -2,14 +2,14 @@
 
 ☕ Coffee Shop Sales Forecast Report
 
-1. Objective
+# 1. Objective
 Forecast hourly sales to improve:
 
 staffing decisions
 inventory planning
 peak-hour management
 
-2. Key Findings
+# 2. Key Findings
 📌 Sales Patterns
 strong daily seasonality
 peak hours: morning & lunch
@@ -19,12 +19,12 @@ low activity during late hours
 MAE:
 
 
-3. Forecast Insights
+# 3. Forecast Insights
 expected demand patterns are stable
 predictable peaks allow better staff scheduling
 confidence intervals highlight uncertainty windows
 
-5. Business Recommendations
+# 4. Business Recommendations
 🧑‍🍳 Staffing
 increase staff during peak hours
 reduce overstaffing during slow periods
@@ -33,11 +33,12 @@ reduce overstaffing during slow periods
 prepare high-demand items before peak hours
 reduce waste in low-demand periods
 
+
 ⏱ Operations
 optimize prep times
 reduce queues during rush hours
 
-7. Limitations
+# 5. Limitations
 assumes historical patterns continue
 external factors not included:
 weather
