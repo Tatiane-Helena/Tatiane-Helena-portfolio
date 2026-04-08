@@ -5,9 +5,9 @@
 # 1. Objective
 Forecast hourly sales to improve:
 
-staffing decisions
-inventory planning
-peak-hour management
+staffing decisions,
+inventory planning,
+peak-hour management.
 
 # 2. Key Findings
 📌 Sales Patterns
