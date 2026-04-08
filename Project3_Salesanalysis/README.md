@@ -20,14 +20,14 @@ MAE:
 
 
 # 3. Forecast Insights
-expected demand patterns are stable
 predictable peaks allow better staff scheduling
-confidence intervals highlight uncertainty windows
+
 
 # 4. Business Recommendations
 🧑‍🍳 Staffing
 increase staff during peak hours
 reduce overstaffing during slow periods
+reduce labour cost 
 
 📦 Inventory
 prepare high-demand items before peak hours
@@ -37,13 +37,14 @@ reduce waste in low-demand periods
 ⏱ Operations
 optimize prep times
 reduce queues during rush hours
+efficiency in performance 
 
 # 5. Limitations
 assumes historical patterns continue
 
 external factors not included:
 weather,
-promotions,
+promotions or local events,
 holidays.
 
 ---
