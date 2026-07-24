@@ -15,9 +15,6 @@ strong daily seasonality
 peak hours: morning & lunch
 low activity during late hours
 
-📌 Forecast Performance
-MAE:
-
 
 # 3. Forecast Insights
 predictable peaks allow better staff scheduling
